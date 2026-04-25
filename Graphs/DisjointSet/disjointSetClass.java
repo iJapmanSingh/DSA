@@ -1,14 +1,17 @@
 public class DisjointSet {
     int[] parent ;
     int[] rank ;
+    int[] size ;
 
     public DisjointSet(int n){
         parent = new int[n];
         rank = new int[n];
+        size = new int[n];
 
         for(int i = 0 ; i < n ; i++){
             parent[i] = i ;
             rank[i] = 0 ;
+            size[i] = 1 ;
         }
     }
     public int findParent(int node){
