@@ -33,6 +33,21 @@ public class DisjointSet {
         }
     }
 
+    public void unionBySize(int u, int v){
+        int pu = findParent(u);
+        int pv = findParent(v);
+
+        if(pu == pv) return;
+
+        if(size[pu] < size[pv]){
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
+
     public static void main(String[] args) {
 
         DisjointSet ds = new DisjointSet(8);
