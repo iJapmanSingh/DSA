@@ -12,6 +12,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/iJapmanSingh/DSA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
@@ -20,10 +21,12 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/iJapmanSingh/DSA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/iJapmanSingh/DSA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -37,6 +40,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/iJapmanSingh/DSA/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -45,4 +49,8 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/iJapmanSingh/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
