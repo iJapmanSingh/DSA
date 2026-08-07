@@ -29,4 +29,20 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
