@@ -14,6 +14,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | ------- |
 | [0085-maximal-rectangle](https://github.com/iJapmanSingh/DSA/tree/master/0085-maximal-rectangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/iJapmanSingh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0312-burst-balloons](https://github.com/iJapmanSingh/DSA/tree/master/0312-burst-balloons) |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0124-binary-tree-maximum-path-sum](https://github.com/iJapmanSingh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/iJapmanSingh/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/iJapmanSingh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0312-burst-balloons](https://github.com/iJapmanSingh/DSA/tree/master/0312-burst-balloons) |
 ## Greedy
 |  |
 | ------- |
