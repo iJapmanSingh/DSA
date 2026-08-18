@@ -22,6 +22,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
+| [0887-super-egg-drop](https://github.com/iJapmanSingh/DSA/tree/master/0887-super-egg-drop) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/iJapmanSingh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/iJapmanSingh/DSA/tree/master/0312-burst-balloons) |
 | [0818-race-car](https://github.com/iJapmanSingh/DSA/tree/master/0818-race-car) |
+| [0887-super-egg-drop](https://github.com/iJapmanSingh/DSA/tree/master/0887-super-egg-drop) |
 | [1563-stone-game-v](https://github.com/iJapmanSingh/DSA/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Math
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/iJapmanSingh/DSA/tree/master/0887-super-egg-drop) |
 | [1563-stone-game-v](https://github.com/iJapmanSingh/DSA/tree/master/1563-stone-game-v) |
 ## Game Theory
 |  |
