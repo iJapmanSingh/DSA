@@ -16,6 +16,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/iJapmanSingh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/iJapmanSingh/DSA/tree/master/0312-burst-balloons) |
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
+| [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/iJapmanSingh/DSA/tree/master/1563-stone-game-v) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iJapmanSingh/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
@@ -60,6 +61,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
+| [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
@@ -104,5 +106,10 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iJapmanSingh/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
