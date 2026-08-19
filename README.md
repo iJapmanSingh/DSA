@@ -53,6 +53,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0124-binary-tree-maximum-path-sum](https://github.com/iJapmanSingh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/iJapmanSingh/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/iJapmanSingh/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/iJapmanSingh/DSA/tree/master/0312-burst-balloons) |
 | [0818-race-car](https://github.com/iJapmanSingh/DSA/tree/master/0818-race-car) |
 | [0887-super-egg-drop](https://github.com/iJapmanSingh/DSA/tree/master/0887-super-egg-drop) |
@@ -97,6 +98,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
 | [0887-super-egg-drop](https://github.com/iJapmanSingh/DSA/tree/master/0887-super-egg-drop) |
 | [1563-stone-game-v](https://github.com/iJapmanSingh/DSA/tree/master/1563-stone-game-v) |
 ## Game Theory
@@ -112,4 +114,16 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
