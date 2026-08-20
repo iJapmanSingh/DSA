@@ -18,6 +18,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0456-132-pattern](https://github.com/iJapmanSingh/DSA/tree/master/0456-132-pattern) |
 | [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/iJapmanSingh/DSA/tree/master/1563-stone-game-v) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/iJapmanSingh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iJapmanSingh/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -126,4 +127,8 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/iJapmanSingh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
