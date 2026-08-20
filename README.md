@@ -75,14 +75,17 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/iJapmanSingh/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iJapmanSingh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/iJapmanSingh/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iJapmanSingh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/iJapmanSingh/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iJapmanSingh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -131,4 +134,8 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iJapmanSingh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/iJapmanSingh/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
