@@ -105,6 +105,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0279-perfect-squares](https://github.com/iJapmanSingh/DSA/tree/master/0279-perfect-squares) |
 | [0887-super-egg-drop](https://github.com/iJapmanSingh/DSA/tree/master/0887-super-egg-drop) |
 | [1563-stone-game-v](https://github.com/iJapmanSingh/DSA/tree/master/1563-stone-game-v) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iJapmanSingh/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Game Theory
 |  |
 | ------- |
