@@ -45,6 +45,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/iJapmanSingh/DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/iJapmanSingh/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iJapmanSingh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,8 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/iJapmanSingh/DSA/tree/master/0113-path-sum-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iJapmanSingh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
