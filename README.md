@@ -46,6 +46,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | [0115-distinct-subsequences](https://github.com/iJapmanSingh/DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/iJapmanSingh/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iJapmanSingh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iJapmanSingh/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | ------- |
 | [0044-wildcard-matching](https://github.com/iJapmanSingh/DSA/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iJapmanSingh/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/iJapmanSingh/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/iJapmanSingh/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iJapmanSingh/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,4 +147,12 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iJapmanSingh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iJapmanSingh/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/iJapmanSingh/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
