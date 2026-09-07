@@ -46,8 +46,10 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/iJapmanSingh/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/iJapmanSingh/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/iJapmanSingh/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/iJapmanSingh/DSA/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
