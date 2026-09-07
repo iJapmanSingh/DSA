@@ -1,0 +1,25 @@
+class Solution {
+    public int distinctSubseqII(String s) {
+        final long MOD = 1_000_000_007;
+
+        // last[c] = dp value before the previous occurrence of c
+        long[] last = new long[26];
+
+        // Initially only the empty subsequence exists
+        long dp = 1;
+
+        for (char c : s.toCharArray()) {
+            int idx = c - 'a';
+
+            long newDp = (2 * dp - last[idx] + MOD) % MOD;
+
+            // Store the old dp before updating
+            last[idx] = dp;
+
+            dp = newDp;
+        }
+
+        // Remove the empty subsequence
+        return (int) ((dp - 1 + MOD) % MOD);
+    }
+}
