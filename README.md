@@ -15,4 +15,16 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | ------- |
 | [0007-reverse-integer](https://github.com/iJapmanSingh/DSA/tree/master/0007-reverse-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/iJapmanSingh/DSA/tree/master/3871-count-commas-in-range-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iJapmanSingh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iJapmanSingh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iJapmanSingh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
