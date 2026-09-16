@@ -14,6 +14,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iJapmanSingh/DSA/tree/master/0007-reverse-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iJapmanSingh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/iJapmanSingh/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -51,9 +52,18 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Dynamic Programming
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iJapmanSingh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iJapmanSingh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iJapmanSingh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iJapmanSingh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iJapmanSingh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
