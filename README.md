@@ -14,6 +14,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iJapmanSingh/DSA/tree/master/0007-reverse-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/iJapmanSingh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iJapmanSingh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/iJapmanSingh/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -84,4 +85,8 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iJapmanSingh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/iJapmanSingh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
