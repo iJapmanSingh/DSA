@@ -81,6 +81,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iJapmanSingh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/iJapmanSingh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,8 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/iJapmanSingh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/iJapmanSingh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
