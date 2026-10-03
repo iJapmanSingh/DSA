@@ -89,6 +89,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/iJapmanSingh/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iJapmanSingh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iJapmanSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iJapmanSingh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/iJapmanSingh/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -115,8 +116,13 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/iJapmanSingh/DSA/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iJapmanSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/iJapmanSingh/DSA/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iJapmanSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
