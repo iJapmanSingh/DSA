@@ -63,6 +63,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iJapmanSingh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iJapmanSingh/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/iJapmanSingh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iJapmanSingh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -87,6 +88,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iJapmanSingh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/iJapmanSingh/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iJapmanSingh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iJapmanSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -95,6 +97,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iJapmanSingh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/iJapmanSingh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -115,6 +118,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iJapmanSingh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/iJapmanSingh/DSA/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iJapmanSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
@@ -124,5 +128,6 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iJapmanSingh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iJapmanSingh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
