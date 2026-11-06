@@ -34,6 +34,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iJapmanSingh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/iJapmanSingh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/iJapmanSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/iJapmanSingh/DSA/tree/master/0454-4sum-ii) |
 | [0835-image-overlap](https://github.com/iJapmanSingh/DSA/tree/master/0835-image-overlap) |
@@ -63,6 +64,7 @@ Codeforces - https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rW
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iJapmanSingh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/iJapmanSingh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/iJapmanSingh/DSA/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iJapmanSingh/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/iJapmanSingh/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
